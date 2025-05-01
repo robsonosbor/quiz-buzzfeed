@@ -10,10 +10,6 @@
 
 ![Captura de Tela do Quiz](https://github.com/robsonosbor/quiz-buzzfeed/blob/main/src/assets/imgs/screnshot.jpg)
 
-## 🚀 Demonstração
-
-Acesse a aplicação em funcionamento: [https://robsonosbor.github.io/quiz-buzzfeed](https://robsonosbor.github.io/quiz-buzzfeed)
-
 ## 🛠️ Tecnologias Utilizadas
 
 - [Angular CLI v14.1.2](https://angular.io/)
