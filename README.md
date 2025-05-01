@@ -1,27 +1,78 @@
-# ProjetoBuzzfeed
+# Quiz Estilo BuzzFeed com Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+[![Angular](https://img.shields.io/badge/Angular-v14-red?logo=angular)](https://angular.io/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Build](https://img.shields.io/badge/build-passing-brightgreen)](#)
+[![GitHub Pages](https://img.shields.io/badge/deploy-GitHub%20Pages-blueviolet)](https://robsonosbor.github.io/quiz-buzzfeed/)
+[![Last Commit](https://img.shields.io/github/last-commit/robsonosbor/quiz-buzzfeed)](https://github.com/robsonosbor/quiz-buzzfeed/commits/main)
 
-## Development server
+> Um quiz interativo inspirado no estilo BuzzFeed, desenvolvido com Angular. Este projeto demonstra habilidades em desenvolvimento front-end, manipulação de dados e criação de interfaces dinâmicas.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+![Captura de Tela do Quiz](https://github.com/robsonosbor/quiz-buzzfeed/blob/main/src/assets/imgs/screnshot.jpg)
 
-## Code scaffolding
+## 🚀 Demonstração
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Acesse a aplicação em funcionamento: [https://robsonosbor.github.io/quiz-buzzfeed](https://robsonosbor.github.io/quiz-buzzfeed)
 
-## Build
+## 🛠️ Tecnologias Utilizadas
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- [Angular CLI v14.1.2](https://angular.io/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [Node.js](https://nodejs.org/)
 
-## Running unit tests
+## 📸 Captura de Tela
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![Screenshot do Quiz](https://github.com/robsonosbor/quiz-buzzfeed/blob/main/src/assets/imgs/screnshot.jpg)
 
-## Running end-to-end tests
+## 📦 Como Executar o Projeto
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+### Pré-requisitos
 
-## Further help
+- [Node.js](https://nodejs.org/) instalado
+- [Angular CLI](https://angular.io/cli) instalado globalmente
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### Passos para execução
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/robsonosbor/quiz-buzzfeed.git
+   ```
+
+2. Navegue até o diretório do projeto:
+
+   ```bash
+   cd quiz-buzzfeed
+   ```
+
+3. Instale as dependências:
+
+   ```bash
+   npm install
+   ```
+
+4. Inicie o servidor de desenvolvimento:
+
+   ```bash
+   ng serve
+   ```
+
+5. Acesse a aplicação no navegador:
+
+   ```
+   http://localhost:4200/
+   ```
+
+## 🧪 Testes
+
+Para executar os testes unitários:
+
+```bash
+ng test
+```
+
+## 📄 Licença
+
+Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
