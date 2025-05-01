@@ -22,10 +22,6 @@ Acesse a aplicação em funcionamento: [https://robsonosbor.github.io/quiz-buzzf
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [Node.js](https://nodejs.org/)
 
-## 📸 Captura de Tela
-
-![Screenshot do Quiz](https://github.com/robsonosbor/quiz-buzzfeed/blob/main/src/assets/imgs/screnshot.jpg)
-
 ## 📦 Como Executar o Projeto
 
 ### Pré-requisitos
